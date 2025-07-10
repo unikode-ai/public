@@ -12,6 +12,8 @@ JLR is engaged in the development of autonomous driving software and seeks to en
 - **Visibility with Azure DevOps**: Connect CI/CD pipelines to the Enterprise Platform's PMO module for visibility and tracking.
 - **Automated Approvals**: Use BPM workflows to enforce regulated approval gates at each release stage.
 - **Live Dashboards**: Deploy Power BI dashboards to monitor release status, testing, and blockers.
+- **GitLab Integrations**: seamless integration with existing environments.
+
 
 ### 2. AI Roadmap Management
 - **Strategic Planning Module**: Track AI initiatives (e.g., Perception AI, V2X, L4readiness) within structured roadmaps.
