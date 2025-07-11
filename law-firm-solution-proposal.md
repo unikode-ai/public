@@ -45,10 +45,6 @@
 - **Proactive Alerts**: Automatically flags upcoming deadlines and recommends tasks based on matter type.
 - **Legal Research Assistant**: Surfaces relevant precedents or content from stored case law and statutes.
 
-### 5. Scalable and Low Overhead
-- Built entirely on the Microsoft ecosystem (Office 365, Power Platform), requiring no new licenses or hardware.
-- Accessible from desktop and mobile, with push notifications and integrated dashboards.
-- Easily extendable to support billing, HR, or analytics in the future.
 
 ### ⌐↓ Expected Outcomes
 - Cut intake and case setup time by over 50%
